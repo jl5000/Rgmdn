@@ -13,8 +13,7 @@ Geothmetic Meandian as popularized by xkcd:
 
 ## Installation
 
-You can install the released version of Rgmdn from
-[CRAN](https://CRAN.R-project.org) with:
+You can install the development version of Rgmdn from Github with:
 
 ``` r
 # install.packages("remotes")
