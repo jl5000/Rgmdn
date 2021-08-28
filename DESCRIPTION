@@ -1,0 +1,14 @@
+Package: Rgmdn
+Title: Calculate the Geothmetic Meandian
+Version: 0.0.1.9000
+Authors@R: 
+    person(given = "Jamie",
+           family = "Lendrum",
+           role = c("aut", "cre"),
+           email = "jalendrum@gmail.com")
+Description: Offers a function to calculate the Geothmetic Meandian popularized by the xkcd comic.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
